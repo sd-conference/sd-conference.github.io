@@ -3,7 +3,7 @@ const route = {
     forum: ['https://sd-conference.github.io/forum-publish/index.html', true],
     ebl: ['https://ebl.sdok.ga', true],
     books: ['https://books.sdok.ga', false],
-    fcs: ['https://sd-conference.github.io/fcs-publish/index.html', false],
+    fcs: ['https://sd-conference.github.io/fcs-publish/index.html', true],
     fix: ['', false]
 }
 
