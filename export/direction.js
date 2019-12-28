@@ -4,7 +4,7 @@ const route = {
     ebl: ['https://ebl.sdok.ga', true],
     books: ['https://books.sdok.ga', false],
     fcs: ['https://sd-conference.github.io/fcs-publish/index.html', true],
-    fix: ['', false]
+    fix: ['https://sd-conference.github.io/fix.html', true]
 }
 
 function call (target) {
