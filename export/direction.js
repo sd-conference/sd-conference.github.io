@@ -1,9 +1,9 @@
 const route = {
     root: ['https://sd-conference.github.io', false],
-    forum: ['https://forum.sdok.ga', false],
+    forum: ['https://sd-conference.github.io/forum-publish/index.html', true],
     ebl: ['https://ebl.sdok.ga', true],
     books: ['https://books.sdok.ga', false],
-    fcs: ['https://fcs.sdok.ga', false],
+    fcs: ['https://sd-conference.github.io/fcs-publish/index.html', false],
     fix: ['', false]
 }
 
